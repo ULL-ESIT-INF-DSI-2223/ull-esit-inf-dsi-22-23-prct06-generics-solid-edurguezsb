@@ -9,7 +9,6 @@ Los objetivos de esta práctica son familiarizarnos con el manejo de clases e in
 
 También podríamos destacar como objetivo empezar a utilizar Coveralls e Instanbul, para poder hacer un seguimiento sobre nuestro código de una manera mucho más eficiente.
 
-
 ## _Ejercicio 1 - DSIflix_
 
 ### Enunciado:
