@@ -1,6 +1,6 @@
 # Práctica 6
 
-
+[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-edurguezsb/badge.svg?branch=master)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-edurguezsb?branch=master)
 
 En esta actividad, la Práctica 6 de la asignatura, se nos plantean varios problemas de programación que nos ayudarán a conocer más en profundidad las clases e interfaces genéricas del lenguaje TypeScript. Sin olvidarnos de utilizar los principios SOLID de diseño orientado a objetos.
 A continuación se mostrarán las soluciones para los problemas mencionados anteriormente, acompañados de explicaciones, pruebas y comentarios que faciliten su comprensión.
